@@ -1,7 +1,5 @@
 # Planetary-Simulation
 
-#!/usr/bin/env python3
-
 import math
 from turtle import *
 
